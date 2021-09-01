@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sample project to deploy on Google Cloud Platform.
+          Sample project successfully deployed on google cloud platform.
         </p>
        
       </header>
